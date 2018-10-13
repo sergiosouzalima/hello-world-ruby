@@ -5,18 +5,18 @@ hello-world-ruby
 
 How to use
 --------------
-* To create the image sergiosouzalima/hello-world-ruby,
+* To create the image your_user_name/hello-world-ruby,
   execute the following command on the hello-world-ruby folder:
-  docker build -t sergiosouzalima/hello-world-ruby .
+  docker build -t your_user_name/hello-world-ruby .
 * You can now push your new image to the registry:
-  docker push sergiosouzalima/hello-world-ruby
+  docker push your_user_name/hello-world-ruby
 
 
 Instruction to run
 --------------
 
 * On your local computer
-  - docker container run sergiosouzalima/hello-world-ruby
+  - docker container run your_user_name/hello-world-ruby
 
 Output
 --------------
