@@ -44,3 +44,10 @@ Why Ruby?
   In this case, of course I could have chosen other languages like Python or .Net,
   but Ruby is the language i like the most for the time being :-D .
 
+Git Hub Repository
+---------
+https://github.com/sergiosouzalima/hello-world-ruby
+
+Docker Hub Repository
+---------
+https://hub.docker.com/r/sergiosouzalima/hello-world-ruby/
