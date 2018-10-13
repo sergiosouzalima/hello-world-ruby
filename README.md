@@ -1,7 +1,7 @@
 hello-world-ruby
 ================
 
-* Main goal: docker image to test docker deployments
+* Main goal: docker image to test docker build, run & deployments
 
 How to use
 --------------
@@ -27,13 +27,8 @@ Hello World Ruby from Docker :-D
 
 This message shows that your installation appears to be working correctly.
 
+H E L L O W O R L D !
 
-_   _      _ _                             _     _ _
-| | | | ___| | | ___    __      _____  _ __| | __| | |
-| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| |__| |/ _| | |
-|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
-|_| |_|\___|_|_|\___( )   \_/\_/ \___/|_|  |_|\__,_(_)
-                    |/
 
 Ruby
 -------------
