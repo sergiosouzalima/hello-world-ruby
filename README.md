@@ -6,12 +6,10 @@ hello-world-ruby
 How to use
 --------------
 * To create the image hello-world-ruby,
-  execute the following command on the hello-world-ruby folder:
+  execute the following command on the hello-world-ruby folder
   - docker build -t dockerhub-username/hello-world-ruby .
-
-* You can now push your new image to the registry:
+* You can now push your new image to the registry
   - docker push dockerhub-username/hello-world-ruby
-
 
 Instruction to run
 --------------
